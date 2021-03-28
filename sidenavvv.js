@@ -16,7 +16,7 @@ class SideNavvv extends React.Component{
   render(){
     return(
       <div>
-        <Navigation></Navigation>
+        <Navigation></Navigation>   // this is navigation remove this this line 
         
         <SideNav  style={{backgroundColor:'black'}}
     onSelect={(selected) => {
